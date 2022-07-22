@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #0000cd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-style: italic;
+    color: darkorange;
+}
+button{
+    background-color: green;
+    border-radius: 5px;
+    font-style: italic;
+}
+img{
+    border-radius: 50px;
+}
